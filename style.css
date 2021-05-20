@@ -30,11 +30,11 @@
 }
 
 body:hover {
-    cursor: url('./hammer_cursor.png') 2 2, auto;
+    cursor: url('images/hammer_cursor.png') 2 2, auto;
 }
 
 .mole {
-    background-image: url('./mole.png');
+    background-image: url('images/mole.png');
     background-size: cover;
 }
 
